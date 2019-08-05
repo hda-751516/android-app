@@ -1,0 +1,1 @@
+# Prototype Android application for hybrid BLE Beacon & QR Code check-in
